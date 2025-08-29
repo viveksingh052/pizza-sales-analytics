@@ -12,10 +12,20 @@ This project showcases the **end-to-end data analysis process** on a pizza sales
 
 ## 🔑 KPI Analysis with SQL  
 - **Total Revenue** – overall earnings  
+<img width="694" height="173" alt="image" src="https://github.com/user-attachments/assets/5fab5e12-a610-4727-b26b-4163cc287227" />
+
 - **Average Order Value (AOV)** – revenue per order  
+<img width="664" height="181" alt="image" src="https://github.com/user-attachments/assets/967f612e-6093-45d6-a7f7-4b9a5f39c559" />
+
 - **Total Pizzas Sold** – total quantity sold  
+<img width="671" height="168" alt="image" src="https://github.com/user-attachments/assets/44016a4f-2472-48aa-8f3d-dc4386015e29" />
+
 - **Total Orders** – number of customer orders  
+<img width="661" height="157" alt="image" src="https://github.com/user-attachments/assets/1535ffab-0ead-4472-87d8-f7ba5d05a064" />
+
 - **Average Pizzas per Order** – pizzas sold per order on average  
+<img width="536" height="50" alt="image" src="https://github.com/user-attachments/assets/b524738c-045b-4023-a94a-d19840f46de7" />
+<img width="660" height="193" alt="image" src="https://github.com/user-attachments/assets/7cfdffa7-5536-4480-a335-756d646742ba" />
 
 ---
 
