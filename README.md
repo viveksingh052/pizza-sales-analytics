@@ -29,14 +29,35 @@ This project showcases the **end-to-end data analysis process** on a pizza sales
 
 ---
 
-### Charts Included:  
-1. **Daily Trend for Total Orders**   
+### SQL Queries For Charts Included:  
+1. **Daily Trend for Total Orders** 
+<img width="682" height="400" alt="image" src="https://github.com/user-attachments/assets/14fd3b66-8a1b-49d1-9530-7023c7ab4caf" />
+  
 2. **Hourly Trend for Total Orders**
+<img width="682" height="400" alt="image" src="https://github.com/user-attachments/assets/b6094df5-114e-46c8-8d53-b097e3cfad96" />
+<img width="266" height="398" alt="image" src="https://github.com/user-attachments/assets/c22ea576-d4b4-4ca5-be77-fa6c7a80bb42" />
+
+
 3. **Percentage of Sales by Pizza Category**
+<img width="713" height="326" alt="image" src="https://github.com/user-attachments/assets/4aa13610-00e9-4410-b3c4-0d5a1b25f6f9" />
+
 4. **Percentage of Sales by Pizza Size**  
+<img width="707" height="194" alt="image" src="https://github.com/user-attachments/assets/c1429e36-33ab-445f-8ba9-2823a23f2ed4" />
+<img width="350" height="222" alt="image" src="https://github.com/user-attachments/assets/ff6db600-e002-45d9-aeb0-c4dffe985152" />
+
+
 5. **Total Pizzas Sold by Pizza Category** 
+<img width="691" height="319" alt="image" src="https://github.com/user-attachments/assets/5b900ed1-5255-4cdd-8efe-d983b4cf72f7" />
+
+
 6. **Top 5 Best Sellers (by Total Pizzas Sold)** 
+<img width="693" height="360" alt="image" src="https://github.com/user-attachments/assets/89c87898-f0fe-4acd-9a8f-2532e814c32c" />
+
+
 7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)**
+<img width="547" height="92" alt="image" src="https://github.com/user-attachments/assets/0197e81b-06f7-4253-85dc-54c010736af9" />
+<img width="694" height="339" alt="image" src="https://github.com/user-attachments/assets/c5e1e6d5-3714-4cd5-ad4f-528b28ac4ca0" />
+
 
 ---
 
