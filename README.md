@@ -5,6 +5,8 @@ This project showcases the **end-to-end data analysis process** on a pizza sales
 ---
 
 ## 🧹 Data Cleaning & Preparation  
+- Imported raw CSV pizza sales data into **SQL Server Management Studio (SSMS)**  
+- Created a **new database** in SSMS and loaded the dataset  
 - Removed inconsistencies and prepared the dataset for analysis  
 - Ensured data quality for accurate reporting  
 
@@ -79,6 +81,7 @@ Using **Excel**, an interactive dashboard was created with multiple charts to vi
 ## 🛠 Tech Stack  
 - <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="25"/> **Excel** – Dashboard creation, chart visualizations  
 - <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="25"/> **SQL** – Data cleaning, KPI calculation, trend queries  
+- <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="25"/> **SQL Server Management Studio (SSMS)** – Database creation, CSV import, and SQL execution  
 
 ---
 
