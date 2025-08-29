@@ -29,6 +29,17 @@ This project showcases the **end-to-end data analysis process** on a pizza sales
 
 ---
 
+### Charts Included:  
+1. **Daily Trend for Total Orders**   
+2. **Hourly Trend for Total Orders**
+3. **Percentage of Sales by Pizza Category**
+4. **Percentage of Sales by Pizza Size**  
+5. **Total Pizzas Sold by Pizza Category** 
+6. **Top 5 Best Sellers (by Total Pizzas Sold)** 
+7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)**
+
+---
+
 ## 📊 Data Visualization & Dashboard  
 
 Using **Excel**, an interactive dashboard was created with multiple charts to visualize sales performance. SQL queries were also written to validate and cross-check the outputs for consistency.  
