@@ -57,7 +57,10 @@ This project showcases the **end-to-end data analysis process** on a pizza sales
 
 
 7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)**
-<img width="365" height="206" alt="image" src="https://github.com/user-attachments/assets/adcb40d7-9432-4d2e-a443-2d9b17e39346" />
+<img width="659" height="100" alt="image" src="https://github.com/user-attachments/assets/f1be1628-f411-4df2-8e56-ff5681f56317" />
+<img width="421" height="162" alt="image" src="https://github.com/user-attachments/assets/13adf7eb-63a4-4462-9878-797e23233579" />
+
+
 
 
 
@@ -87,7 +90,8 @@ Using **Excel**, an interactive dashboard was created with multiple charts to vi
 <img width="351" height="205" alt="image" src="https://github.com/user-attachments/assets/95b3d75e-2b13-4432-a49c-765d9e9bdaf5" />
 
 7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)** – Bar chart of the least popular pizzas 
-<img width="369" height="209" alt="image" src="https://github.com/user-attachments/assets/0c1680ae-c1c1-4641-82bf-46af5c1b5e89" />
+<img width="365" height="206" alt="image" src="https://github.com/user-attachments/assets/159d42ff-7a8e-4841-ae4c-85cb2cd862ca" />
+
  
 
 ---
