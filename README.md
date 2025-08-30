@@ -57,8 +57,8 @@ This project showcases the **end-to-end data analysis process** on a pizza sales
 
 
 7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)**
-<img width="547" height="92" alt="image" src="https://github.com/user-attachments/assets/0197e81b-06f7-4253-85dc-54c010736af9" />
-<img width="694" height="339" alt="image" src="https://github.com/user-attachments/assets/c5e1e6d5-3714-4cd5-ad4f-528b28ac4ca0" />
+<img width="365" height="206" alt="image" src="https://github.com/user-attachments/assets/adcb40d7-9432-4d2e-a443-2d9b17e39346" />
+
 
 
 ---
