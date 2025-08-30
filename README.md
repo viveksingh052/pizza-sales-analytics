@@ -69,12 +69,26 @@ Using **Excel**, an interactive dashboard was created with multiple charts to vi
 
 ### Charts Included:  
 1. **Daily Trend for Total Orders** – Bar chart showing order volume trends across days  
+<img width="539" height="200" alt="image" src="https://github.com/user-attachments/assets/42698bba-4963-4ec4-8e61-a4cd7ba2d11d" />
+
 2. **Hourly Trend for Total Orders** – Line chart to identify peak ordering hours  
+<img width="539" height="195" alt="image" src="https://github.com/user-attachments/assets/473d78d1-7e6a-45f8-a2e1-ec56515c8d96" />
+
 3. **Percentage of Sales by Pizza Category** – Pie chart showing sales contribution by category  
+<img width="350" height="190" alt="image" src="https://github.com/user-attachments/assets/3b549110-8ab9-4570-92af-33cba466bd36" />
+
 4. **Percentage of Sales by Pizza Size** – Pie chart illustrating sales distribution by size  
+<img width="367" height="189" alt="image" src="https://github.com/user-attachments/assets/9b24c2be-7f6b-49f3-be23-3659df779ddb" />
+
 5. **Total Pizzas Sold by Pizza Category** – Funnel chart comparing sales performance of categories  
+<img width="338" height="192" alt="image" src="https://github.com/user-attachments/assets/747cde02-7800-4286-afcb-61d61f59f83e" />
+
 6. **Top 5 Best Sellers (by Total Pizzas Sold)** – Bar chart of the most popular pizzas  
-7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)** – Bar chart of the least popular pizzas  
+<img width="351" height="205" alt="image" src="https://github.com/user-attachments/assets/95b3d75e-2b13-4432-a49c-765d9e9bdaf5" />
+
+7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)** – Bar chart of the least popular pizzas 
+<img width="369" height="209" alt="image" src="https://github.com/user-attachments/assets/0c1680ae-c1c1-4641-82bf-46af5c1b5e89" />
+ 
 
 ---
 
