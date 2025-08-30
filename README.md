@@ -92,7 +92,10 @@ Using **Excel**, an interactive dashboard was created with multiple charts to vi
 7. **Bottom 5 Worst Sellers (by Total Pizzas Sold)** – Bar chart of the least popular pizzas 
 <img width="365" height="206" alt="image" src="https://github.com/user-attachments/assets/159d42ff-7a8e-4841-ae4c-85cb2cd862ca" />
 
- 
+---
+## Final Dashboard
+<img width="1363" height="775" alt="image" src="https://github.com/user-attachments/assets/6c7ee20d-a293-4904-8831-bd19450861cf" />
+
 
 ---
 
